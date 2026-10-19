@@ -1,0 +1,3 @@
+export const API=import.meta.env.VITE_API_URL||"http://localhost:5000";
+export async function api(path,options={}){const token=localStorage.getItem("token");const headers={...(options.body instanceof FormData?{}:{"Content-Type":"application/json"}),...options.headers};if(token)headers.Authorization=`Bearer ${token}`;const r=await fetch(`${API}${path}`,{...options,headers});const data=r.status===204?null:await r.json().catch(()=>({}));if(!r.ok)throw new Error(data.message||"Request failed");return data;}
+export function currentUser(){return JSON.parse(localStorage.getItem("user")||"null");}

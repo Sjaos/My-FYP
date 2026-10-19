@@ -1,0 +1,121 @@
+product_id,title,description,category,product_type,condition,price
+demo-p001,Laptop Model 1,Portable technology; sample listing created for a synthetic recommendation demo,Electronics,used,Used,9250
+demo-p002,Tablet Model 1,wireless device; sample listing created for a synthetic recommendation demo,Electronics,new,New,18250
+demo-p003,Wireless Headphones Model 1,computer accessory; sample listing created for a synthetic recommendation demo,Electronics,new,New,25250
+demo-p004,Digital Camera Model 1,Portable technology; sample listing created for a synthetic recommendation demo,Electronics,used,Used,65250
+demo-p005,Laptop Model 2,wireless device; sample listing created for a synthetic recommendation demo,Electronics,new,New,9500
+demo-p006,Tablet Model 2,computer accessory; sample listing created for a synthetic recommendation demo,Electronics,new,New,18500
+demo-p007,Wireless Headphones Model 2,Portable technology; sample listing created for a synthetic recommendation demo,Electronics,used,Used,25500
+demo-p008,Digital Camera Model 2,wireless device; sample listing created for a synthetic recommendation demo,Electronics,new,New,65500
+demo-p009,Laptop Model 3,computer accessory; sample listing created for a synthetic recommendation demo,Electronics,new,New,9750
+demo-p010,Tablet Model 3,Portable technology; sample listing created for a synthetic recommendation demo,Electronics,used,Used,18750
+demo-p011,Wireless Headphones Model 3,wireless device; sample listing created for a synthetic recommendation demo,Electronics,new,New,25750
+demo-p012,Digital Camera Model 3,computer accessory; sample listing created for a synthetic recommendation demo,Electronics,new,New,65750
+demo-p013,Study Desk Model 1,home office furniture; sample listing created for a synthetic recommendation demo,Furniture,used,Used,3750
+demo-p014,Office Chair Model 1,wooden study furniture; sample listing created for a synthetic recommendation demo,Furniture,new,New,11250
+demo-p015,Bookshelf Model 1,room furnishing; sample listing created for a synthetic recommendation demo,Furniture,new,New,14250
+demo-p016,Desk Lamp Model 1,home office furniture; sample listing created for a synthetic recommendation demo,Furniture,used,Used,18250
+demo-p017,Study Desk Model 2,wooden study furniture; sample listing created for a synthetic recommendation demo,Furniture,new,New,4000
+demo-p018,Office Chair Model 2,room furnishing; sample listing created for a synthetic recommendation demo,Furniture,new,New,11500
+demo-p019,Bookshelf Model 2,home office furniture; sample listing created for a synthetic recommendation demo,Furniture,used,Used,14500
+demo-p020,Desk Lamp Model 2,wooden study furniture; sample listing created for a synthetic recommendation demo,Furniture,new,New,18500
+demo-p021,Study Desk Model 3,room furnishing; sample listing created for a synthetic recommendation demo,Furniture,new,New,4250
+demo-p022,Office Chair Model 3,home office furniture; sample listing created for a synthetic recommendation demo,Furniture,used,Used,11750
+demo-p023,Bookshelf Model 3,wooden study furniture; sample listing created for a synthetic recommendation demo,Furniture,new,New,14750
+demo-p024,Desk Lamp Model 3,room furnishing; sample listing created for a synthetic recommendation demo,Furniture,new,New,18750
+demo-p025,Programming Book Model 1,reading and learning; sample listing created for a synthetic recommendation demo,Books,used,Used,1450
+demo-p026,Novel Model 1,educational book; sample listing created for a synthetic recommendation demo,Books,new,New,2050
+demo-p027,Study Guide Model 1,reference material; sample listing created for a synthetic recommendation demo,Books,new,New,2750
+demo-p028,Design Handbook Model 1,reading and learning; sample listing created for a synthetic recommendation demo,Books,used,Used,3450
+demo-p029,Programming Book Model 2,educational book; sample listing created for a synthetic recommendation demo,Books,new,New,1700
+demo-p030,Novel Model 2,reference material; sample listing created for a synthetic recommendation demo,Books,new,New,2300
+demo-p031,Study Guide Model 2,reading and learning; sample listing created for a synthetic recommendation demo,Books,used,Used,3000
+demo-p032,Design Handbook Model 2,educational book; sample listing created for a synthetic recommendation demo,Books,new,New,3700
+demo-p033,Programming Book Model 3,reference material; sample listing created for a synthetic recommendation demo,Books,new,New,1950
+demo-p034,Novel Model 3,reading and learning; sample listing created for a synthetic recommendation demo,Books,used,Used,2550
+demo-p035,Study Guide Model 3,educational book; sample listing created for a synthetic recommendation demo,Books,new,New,3250
+demo-p036,Design Handbook Model 3,reference material; sample listing created for a synthetic recommendation demo,Books,new,New,3950
+demo-p037,Casual Shirt Model 1,everyday clothing; sample listing created for a synthetic recommendation demo,Clothing,used,Used,2450
+demo-p038,Winter Jacket Model 1,comfortable fashion; sample listing created for a synthetic recommendation demo,Clothing,new,New,4750
+demo-p039,Running Shoes Model 1,wearable apparel; sample listing created for a synthetic recommendation demo,Clothing,new,New,6250
+demo-p040,Travel Bag Model 1,everyday clothing; sample listing created for a synthetic recommendation demo,Clothing,used,Used,8750
+demo-p041,Casual Shirt Model 2,comfortable fashion; sample listing created for a synthetic recommendation demo,Clothing,new,New,2700
+demo-p042,Winter Jacket Model 2,wearable apparel; sample listing created for a synthetic recommendation demo,Clothing,new,New,5000
+demo-p043,Running Shoes Model 2,everyday clothing; sample listing created for a synthetic recommendation demo,Clothing,used,Used,6500
+demo-p044,Travel Bag Model 2,comfortable fashion; sample listing created for a synthetic recommendation demo,Clothing,new,New,9000
+demo-p045,Casual Shirt Model 3,wearable apparel; sample listing created for a synthetic recommendation demo,Clothing,new,New,2950
+demo-p046,Winter Jacket Model 3,everyday clothing; sample listing created for a synthetic recommendation demo,Clothing,used,Used,5250
+demo-p047,Running Shoes Model 3,comfortable fashion; sample listing created for a synthetic recommendation demo,Clothing,new,New,6750
+demo-p048,Travel Bag Model 3,wearable apparel; sample listing created for a synthetic recommendation demo,Clothing,new,New,9250
+demo-p049,Coffee Maker Model 1,kitchen equipment; sample listing created for a synthetic recommendation demo,Home & Kitchen,used,Used,3250
+demo-p050,Cookware Set Model 1,home cooking; sample listing created for a synthetic recommendation demo,Home & Kitchen,new,New,5750
+demo-p051,Storage Organizer Model 1,household appliance; sample listing created for a synthetic recommendation demo,Home & Kitchen,new,New,7750
+demo-p052,Blender Model 1,kitchen equipment; sample listing created for a synthetic recommendation demo,Home & Kitchen,used,Used,12250
+demo-p053,Coffee Maker Model 2,home cooking; sample listing created for a synthetic recommendation demo,Home & Kitchen,new,New,3500
+demo-p054,Cookware Set Model 2,household appliance; sample listing created for a synthetic recommendation demo,Home & Kitchen,new,New,6000
+demo-p055,Storage Organizer Model 2,kitchen equipment; sample listing created for a synthetic recommendation demo,Home & Kitchen,used,Used,8000
+demo-p056,Blender Model 2,home cooking; sample listing created for a synthetic recommendation demo,Home & Kitchen,new,New,12500
+demo-p057,Coffee Maker Model 3,household appliance; sample listing created for a synthetic recommendation demo,Home & Kitchen,new,New,3750
+demo-p058,Cookware Set Model 3,kitchen equipment; sample listing created for a synthetic recommendation demo,Home & Kitchen,used,Used,6250
+demo-p059,Storage Organizer Model 3,home cooking; sample listing created for a synthetic recommendation demo,Home & Kitchen,new,New,8250
+demo-p060,Blender Model 3,household appliance; sample listing created for a synthetic recommendation demo,Home & Kitchen,new,New,12750
+demo-p061,Football Model 1,sports and exercise; sample listing created for a synthetic recommendation demo,Sports,used,Used,2050
+demo-p062,Yoga Mat Model 1,outdoor activity; sample listing created for a synthetic recommendation demo,Sports,new,New,3050
+demo-p063,Cricket Bat Model 1,fitness equipment; sample listing created for a synthetic recommendation demo,Sports,new,New,5250
+demo-p064,Fitness Dumbbells Model 1,sports and exercise; sample listing created for a synthetic recommendation demo,Sports,used,Used,9250
+demo-p065,Football Model 2,outdoor activity; sample listing created for a synthetic recommendation demo,Sports,new,New,2300
+demo-p066,Yoga Mat Model 2,fitness equipment; sample listing created for a synthetic recommendation demo,Sports,new,New,3300
+demo-p067,Cricket Bat Model 2,sports and exercise; sample listing created for a synthetic recommendation demo,Sports,used,Used,5500
+demo-p068,Fitness Dumbbells Model 2,outdoor activity; sample listing created for a synthetic recommendation demo,Sports,new,New,9500
+demo-p069,Football Model 3,fitness equipment; sample listing created for a synthetic recommendation demo,Sports,new,New,2550
+demo-p070,Yoga Mat Model 3,sports and exercise; sample listing created for a synthetic recommendation demo,Sports,used,Used,3550
+demo-p071,Cricket Bat Model 3,outdoor activity; sample listing created for a synthetic recommendation demo,Sports,new,New,5750
+demo-p072,Fitness Dumbbells Model 3,fitness equipment; sample listing created for a synthetic recommendation demo,Sports,new,New,9750
+demo-p073,Building Blocks Model 1,family play; sample listing created for a synthetic recommendation demo,Toys,used,Used,1750
+demo-p074,Board Game Model 1,creative toy; sample listing created for a synthetic recommendation demo,Toys,new,New,2850
+demo-p075,Remote Car Model 1,indoor games; sample listing created for a synthetic recommendation demo,Toys,new,New,4450
+demo-p076,Puzzle Set Model 1,family play; sample listing created for a synthetic recommendation demo,Toys,used,Used,7250
+demo-p077,Building Blocks Model 2,creative toy; sample listing created for a synthetic recommendation demo,Toys,new,New,2000
+demo-p078,Board Game Model 2,indoor games; sample listing created for a synthetic recommendation demo,Toys,new,New,3100
+demo-p079,Remote Car Model 2,family play; sample listing created for a synthetic recommendation demo,Toys,used,Used,4700
+demo-p080,Puzzle Set Model 2,creative toy; sample listing created for a synthetic recommendation demo,Toys,new,New,7500
+demo-p081,Building Blocks Model 3,indoor games; sample listing created for a synthetic recommendation demo,Toys,new,New,2250
+demo-p082,Board Game Model 3,family play; sample listing created for a synthetic recommendation demo,Toys,used,Used,3350
+demo-p083,Remote Car Model 3,creative toy; sample listing created for a synthetic recommendation demo,Toys,new,New,4950
+demo-p084,Puzzle Set Model 3,indoor games; sample listing created for a synthetic recommendation demo,Toys,new,New,7750
+demo-p085,Hair Dryer Model 1,personal care; sample listing created for a synthetic recommendation demo,Beauty,used,Used,2250
+demo-p086,Skin Care Set Model 1,beauty products; sample listing created for a synthetic recommendation demo,Beauty,new,New,3750
+demo-p087,Makeup Organizer Model 1,daily grooming; sample listing created for a synthetic recommendation demo,Beauty,new,New,5050
+demo-p088,Electric Trimmer Model 1,personal care; sample listing created for a synthetic recommendation demo,Beauty,used,Used,8250
+demo-p089,Hair Dryer Model 2,beauty products; sample listing created for a synthetic recommendation demo,Beauty,new,New,2500
+demo-p090,Skin Care Set Model 2,daily grooming; sample listing created for a synthetic recommendation demo,Beauty,new,New,4000
+demo-p091,Makeup Organizer Model 2,personal care; sample listing created for a synthetic recommendation demo,Beauty,used,Used,5300
+demo-p092,Electric Trimmer Model 2,beauty products; sample listing created for a synthetic recommendation demo,Beauty,new,New,8500
+demo-p093,Hair Dryer Model 3,daily grooming; sample listing created for a synthetic recommendation demo,Beauty,new,New,2750
+demo-p094,Skin Care Set Model 3,personal care; sample listing created for a synthetic recommendation demo,Beauty,used,Used,4250
+demo-p095,Makeup Organizer Model 3,beauty products; sample listing created for a synthetic recommendation demo,Beauty,new,New,5550
+demo-p096,Electric Trimmer Model 3,daily grooming; sample listing created for a synthetic recommendation demo,Beauty,new,New,8750
+demo-p097,Car Phone Mount Model 1,vehicle accessory; sample listing created for a synthetic recommendation demo,Automotive,used,Used,1950
+demo-p098,Tyre Inflator Model 1,automotive equipment; sample listing created for a synthetic recommendation demo,Automotive,new,New,4250
+demo-p099,Dash Camera Model 1,car maintenance; sample listing created for a synthetic recommendation demo,Automotive,new,New,8750
+demo-p100,Tool Kit Model 1,vehicle accessory; sample listing created for a synthetic recommendation demo,Automotive,used,Used,14250
+demo-p101,Car Phone Mount Model 2,automotive equipment; sample listing created for a synthetic recommendation demo,Automotive,new,New,2200
+demo-p102,Tyre Inflator Model 2,car maintenance; sample listing created for a synthetic recommendation demo,Automotive,new,New,4500
+demo-p103,Dash Camera Model 2,vehicle accessory; sample listing created for a synthetic recommendation demo,Automotive,used,Used,9000
+demo-p104,Tool Kit Model 2,automotive equipment; sample listing created for a synthetic recommendation demo,Automotive,new,New,14500
+demo-p105,Car Phone Mount Model 3,car maintenance; sample listing created for a synthetic recommendation demo,Automotive,new,New,2450
+demo-p106,Tyre Inflator Model 3,vehicle accessory; sample listing created for a synthetic recommendation demo,Automotive,used,Used,4750
+demo-p107,Dash Camera Model 3,automotive equipment; sample listing created for a synthetic recommendation demo,Automotive,new,New,9250
+demo-p108,Tool Kit Model 3,car maintenance; sample listing created for a synthetic recommendation demo,Automotive,new,New,14750
+demo-p109,Notebook Set Model 1,school and office supplies; sample listing created for a synthetic recommendation demo,Stationery,used,Used,950
+demo-p110,Drawing Kit Model 1,creative stationery; sample listing created for a synthetic recommendation demo,Stationery,new,New,1650
+demo-p111,Desk Organizer Model 1,study tools; sample listing created for a synthetic recommendation demo,Stationery,new,New,2650
+demo-p112,Pen Collection Model 1,school and office supplies; sample listing created for a synthetic recommendation demo,Stationery,used,Used,4150
+demo-p113,Notebook Set Model 2,creative stationery; sample listing created for a synthetic recommendation demo,Stationery,new,New,1200
+demo-p114,Drawing Kit Model 2,study tools; sample listing created for a synthetic recommendation demo,Stationery,new,New,1900
+demo-p115,Desk Organizer Model 2,school and office supplies; sample listing created for a synthetic recommendation demo,Stationery,used,Used,2900
+demo-p116,Pen Collection Model 2,creative stationery; sample listing created for a synthetic recommendation demo,Stationery,new,New,4400
+demo-p117,Notebook Set Model 3,study tools; sample listing created for a synthetic recommendation demo,Stationery,new,New,1450
+demo-p118,Drawing Kit Model 3,school and office supplies; sample listing created for a synthetic recommendation demo,Stationery,used,Used,2150
+demo-p119,Desk Organizer Model 3,creative stationery; sample listing created for a synthetic recommendation demo,Stationery,new,New,3150
+demo-p120,Pen Collection Model 3,study tools; sample listing created for a synthetic recommendation demo,Stationery,new,New,4650

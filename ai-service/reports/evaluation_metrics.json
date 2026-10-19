@@ -1,0 +1,51 @@
+{
+  "dataset": "Retailrocket e-commerce behavior dataset",
+  "split_method": "chronological leave-one-out per user",
+  "relevance": "last eligible interaction for each user",
+  "k": 10,
+  "evaluated_users": 1000,
+  "event_weights": {
+    "view": 1.0,
+    "addtocart": 3.0,
+    "transaction": 5.0
+  },
+  "variants": {
+    "popularity": {
+      "k": 10,
+      "evaluated_users": 1000,
+      "precision_at_10": 0.0002,
+      "recall_at_10": 0.002,
+      "map_at_10": 0.0012,
+      "hit_rate_at_10": 0.002
+    },
+    "content_based": {
+      "k": 10,
+      "evaluated_users": 1000,
+      "precision_at_10": 0.0029,
+      "recall_at_10": 0.029,
+      "map_at_10": 0.010206,
+      "hit_rate_at_10": 0.029
+    },
+    "item_collaborative": {
+      "k": 10,
+      "evaluated_users": 1000,
+      "precision_at_10": 0.0035,
+      "recall_at_10": 0.035,
+      "map_at_10": 0.015881,
+      "hit_rate_at_10": 0.035
+    },
+    "hybrid": {
+      "k": 10,
+      "evaluated_users": 1000,
+      "precision_at_10": 0.0054,
+      "recall_at_10": 0.054,
+      "map_at_10": 0.023476,
+      "hit_rate_at_10": 0.054
+    }
+  },
+  "notes": [
+    "Offline dataset metrics do not represent live Selbuy marketplace performance.",
+    "The public dataset has view, add-to-cart, and transaction events; it has no Selbuy saves or auction bids.",
+    "Retailrocket item IDs must not be mapped to Selbuy products without a verified crosswalk."
+  ]
+}

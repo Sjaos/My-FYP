@@ -1,0 +1,23 @@
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+.venv/
+**/.venv/
+venv/
+**/venv/
+
+# Installed dependencies and generated files
+**/node_modules/
+**/__pycache__/
+*.py[cod]
+frontend/dist/
+backend/dist/
+repomix-output.xml
+
+# Private configuration and bulky source datasets
+Schema/Supabase detail.txt
+ai-service/data/raw/

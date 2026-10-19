@@ -1,0 +1,21 @@
+{
+  "model_version": "selbuy-catalog-hybrid-v1",
+  "data_provenance": "synthetic-demo",
+  "products": 120,
+  "users": 60,
+  "interactions": 600,
+  "evaluation": {
+    "evaluated_users": 60,
+    "k": 5,
+    "hit_rate_at_k": 1.0,
+    "mrr_at_k": 0.690278,
+    "precision_at_k": 0.2,
+    "recall_at_k": 1.0
+  },
+  "limitations": [
+    "Synthetic-demo results are pipeline checks only, not evidence of recommendation quality.",
+    "Synthetic buyer preferences repeat by design, so high evaluation scores are expected and must not be presented as real-world performance.",
+    "The model must be retrained from a fresh Selbuy export before it can recommend real Selbuy listings.",
+    "No synthetic product or interaction is added to the production database."
+  ]
+}

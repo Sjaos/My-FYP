@@ -1,0 +1,12 @@
+{
+  "training_interactions": 781524,
+  "training_users": 65970,
+  "training_items": 36126,
+  "known_category_items": 34592,
+  "minimum_user_events": 5,
+  "minimum_item_events": 5,
+  "neighbors_per_item": 30,
+  "evaluation_interactions": 58492,
+  "evaluated_users": 1000,
+  "split_method": "chronological leave-one-out per user"
+}
